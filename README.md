@@ -1,6 +1,6 @@
 # ValidatorUtility
 
-<br />ValidatorUtilityは、Unreal Engineのプロジェクトでテクスチャの幅と高さが2の累乗であるかどうかをチェックするユーティリティです。
+<br />ValidatorUtilityは、テクスチャの幅と高さが2の累乗であるかどうかをチェックするユーティリティです。
 
 ## コードの概要
 <br />このユーティリティは、以下の機能を提供します：
